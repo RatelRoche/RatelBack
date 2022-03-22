@@ -21,7 +21,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/SailorEudes/RatelBack">
+  <a href="https://github.com/RatelRoche/RatelBack">
     <img src="https://i.imgur.com/iAJT8PT.png" alt="Logo" width="200">
   </a>
 
@@ -32,14 +32,14 @@
   <p align="center">
     Content management system powered by sqlite technology
     <br />
-    <a href="https://github.com/SailorEudes/RatelBack"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/RatelRoche/RatelBack"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/SailorEudes/RatelBack">View Demo</a>
+    <a href="https://github.com/RatelRoche/RatelBack">View Demo</a>
     ·
-    <a href="https://github.com/SailorEudes/RatelBack/issues">Report Bug</a>
+    <a href="https://github.com/RatelRoche/RatelBack/issues">Report Bug</a>
     ·
-    <a href="https://github.com/SailorEudes/RatelBack/issues">Request Feature</a>
+    <a href="https://github.com/RatelRoche/RatelBack/issues">Request Feature</a>
   </p>
 </div>
 
@@ -134,7 +134,7 @@ or
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/SailorEudes/RatelBack.git
+   git clone https://github.com/RatelRoche/RatelBack.git
    ```
 2. Install NPM packages
    ```sh
@@ -187,7 +187,7 @@ Don't forget to give the project a star! Thanks again!
 
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
 
-Project Link: [https://github.com/SailorEudes/RatelBack](https://github.com/SailorEudes/RatelBack)
+Project Link: [https://github.com/RatelRoche/RatelBack](https://github.com/RatelRoche/RatelBack)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -196,15 +196,15 @@ Project Link: [https://github.com/SailorEudes/RatelBack](https://github.com/Sail
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/SailorEudes/RatelBack/graphs/contributors
+[contributors-url]: https://github.com/RatelRoche/RatelBack/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/SailorEudes/RatelBack/network/members
+[forks-url]: https://github.com/RatelRoche/RatelBack/network/members
 [stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/SailorEudes/RatelBack/stargazers
+[stars-url]: https://github.com/RatelRoche/RatelBack/stargazers
 [issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/SailorEudes/RatelBack/issues
+[issues-url]: https://github.com/RatelRoche/RatelBack/issues
 [license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/SailorEudes/RatelBack/blob/master/LICENSE.txt
+[license-url]: https://github.com/RatelRoche/RatelBack/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/screenshot.png
